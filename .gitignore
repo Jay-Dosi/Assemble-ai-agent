@@ -1,0 +1,8 @@
+node_modules
+dist
+.doctor-sandboxes
+dependency-doctor.db
+.DS_Store
+.env
+.next
+
